@@ -1,0 +1,18 @@
+body {
+    background: #2c2c2c !important;
+  }
+/* 
+  .container {
+    background: url('/uploads/images/1657826479632FUSION.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+  } */
+ 
+  #line_down {
+    margin-top: 10px;
+  }
+
+  #flex-grow-1 {
+    margin-top: 25px;
+  }
